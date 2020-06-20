@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/indragunawansite/static/css/main.5f361e03.chunk.css",
+    "main.js": "/indragunawansite/static/js/main.a5e5c383.chunk.js",
+    "main.js.map": "/indragunawansite/static/js/main.a5e5c383.chunk.js.map",
+    "runtime-main.js": "/indragunawansite/static/js/runtime-main.05afcfcc.js",
+    "runtime-main.js.map": "/indragunawansite/static/js/runtime-main.05afcfcc.js.map",
+    "static/js/2.f89ee0cc.chunk.js": "/indragunawansite/static/js/2.f89ee0cc.chunk.js",
+    "static/js/2.f89ee0cc.chunk.js.map": "/indragunawansite/static/js/2.f89ee0cc.chunk.js.map",
+    "index.html": "/indragunawansite/index.html",
+    "precache-manifest.e9788972051ce0229755bd993f1f4573.js": "/indragunawansite/precache-manifest.e9788972051ce0229755bd993f1f4573.js",
+    "service-worker.js": "/indragunawansite/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/indragunawansite/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f89ee0cc.chunk.js.LICENSE.txt": "/indragunawansite/static/js/2.f89ee0cc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/indragunawansite/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05afcfcc.js",
+    "static/js/2.f89ee0cc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a5e5c383.chunk.js"
+  ]
+}
