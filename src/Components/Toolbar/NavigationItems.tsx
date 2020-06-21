@@ -7,7 +7,7 @@ const NavigationItems = () => {
       <ul className={styles.NavigationItems}>
         <li className={styles.NavigationItem}>
           <NavLink
-            to=''
+            to='indragunawansite'
             exact
             activeClassName={styles.active}>Home
           </NavLink>

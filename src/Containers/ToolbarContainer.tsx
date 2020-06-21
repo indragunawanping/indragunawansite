@@ -8,7 +8,7 @@ const ToolbarContainer = () => {
   const toolbarHistory = useHistory();
 
   const handleLogoClick = () => {
-    toolbarHistory.push('/');
+    toolbarHistory.push('/indragunawansite');
   };
 
   const handleShowOrHideDrawerToggleClick = () => {
