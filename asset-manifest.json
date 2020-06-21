@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/indragunawansite/static/css/main.f7abd361.chunk.css",
-    "main.js": "/indragunawansite/static/js/main.17d114b2.chunk.js",
-    "main.js.map": "/indragunawansite/static/js/main.17d114b2.chunk.js.map",
+    "main.js": "/indragunawansite/static/js/main.0a8c823f.chunk.js",
+    "main.js.map": "/indragunawansite/static/js/main.0a8c823f.chunk.js.map",
     "runtime-main.js": "/indragunawansite/static/js/runtime-main.05afcfcc.js",
     "runtime-main.js.map": "/indragunawansite/static/js/runtime-main.05afcfcc.js.map",
-    "static/js/2.32b93ee9.chunk.js": "/indragunawansite/static/js/2.32b93ee9.chunk.js",
-    "static/js/2.32b93ee9.chunk.js.map": "/indragunawansite/static/js/2.32b93ee9.chunk.js.map",
+    "static/js/2.2fad7123.chunk.js": "/indragunawansite/static/js/2.2fad7123.chunk.js",
+    "static/js/2.2fad7123.chunk.js.map": "/indragunawansite/static/js/2.2fad7123.chunk.js.map",
     "index.html": "/indragunawansite/index.html",
-    "precache-manifest.90469837ec920a9545151f6bfa3ab188.js": "/indragunawansite/precache-manifest.90469837ec920a9545151f6bfa3ab188.js",
+    "precache-manifest.d478444c4f628fecc74d7844bce5e479.js": "/indragunawansite/precache-manifest.d478444c4f628fecc74d7844bce5e479.js",
     "service-worker.js": "/indragunawansite/service-worker.js",
     "static/css/main.f7abd361.chunk.css.map": "/indragunawansite/static/css/main.f7abd361.chunk.css.map",
-    "static/js/2.32b93ee9.chunk.js.LICENSE.txt": "/indragunawansite/static/js/2.32b93ee9.chunk.js.LICENSE.txt",
+    "static/js/2.2fad7123.chunk.js.LICENSE.txt": "/indragunawansite/static/js/2.2fad7123.chunk.js.LICENSE.txt",
     "static/media/logo-ig-v2.webp": "/indragunawansite/static/media/logo-ig-v2.36394865.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.05afcfcc.js",
-    "static/js/2.32b93ee9.chunk.js",
+    "static/js/2.2fad7123.chunk.js",
     "static/css/main.f7abd361.chunk.css",
-    "static/js/main.17d114b2.chunk.js"
+    "static/js/main.0a8c823f.chunk.js"
   ]
 }
