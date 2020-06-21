@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.114641de.chunk.css",
-    "main.js": "/static/js/main.a2b00eba.chunk.js",
-    "main.js.map": "/static/js/main.a2b00eba.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7aff8941.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7aff8941.js.map",
-    "static/js/2.c27d1c8e.chunk.js": "/static/js/2.c27d1c8e.chunk.js",
-    "static/js/2.c27d1c8e.chunk.js.map": "/static/js/2.c27d1c8e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.526007b4dd6b05f0e541b2a4a0ad2c1f.js": "/precache-manifest.526007b4dd6b05f0e541b2a4a0ad2c1f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.114641de.chunk.css.map": "/static/css/main.114641de.chunk.css.map",
-    "static/js/2.c27d1c8e.chunk.js.LICENSE.txt": "/static/js/2.c27d1c8e.chunk.js.LICENSE.txt",
-    "static/media/logo-ig-v2.webp": "/static/media/logo-ig-v2.36394865.webp"
+    "main.css": "/indragunawansite/static/css/main.114641de.chunk.css",
+    "main.js": "/indragunawansite/static/js/main.a8f03fd9.chunk.js",
+    "main.js.map": "/indragunawansite/static/js/main.a8f03fd9.chunk.js.map",
+    "runtime-main.js": "/indragunawansite/static/js/runtime-main.05afcfcc.js",
+    "runtime-main.js.map": "/indragunawansite/static/js/runtime-main.05afcfcc.js.map",
+    "static/js/2.c27d1c8e.chunk.js": "/indragunawansite/static/js/2.c27d1c8e.chunk.js",
+    "static/js/2.c27d1c8e.chunk.js.map": "/indragunawansite/static/js/2.c27d1c8e.chunk.js.map",
+    "index.html": "/indragunawansite/index.html",
+    "precache-manifest.f3f770c0b459e90b7297c9dcf1e040a2.js": "/indragunawansite/precache-manifest.f3f770c0b459e90b7297c9dcf1e040a2.js",
+    "service-worker.js": "/indragunawansite/service-worker.js",
+    "static/css/main.114641de.chunk.css.map": "/indragunawansite/static/css/main.114641de.chunk.css.map",
+    "static/js/2.c27d1c8e.chunk.js.LICENSE.txt": "/indragunawansite/static/js/2.c27d1c8e.chunk.js.LICENSE.txt",
+    "static/media/logo-ig-v2.webp": "/indragunawansite/static/media/logo-ig-v2.36394865.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.7aff8941.js",
+    "static/js/runtime-main.05afcfcc.js",
     "static/js/2.c27d1c8e.chunk.js",
     "static/css/main.114641de.chunk.css",
-    "static/js/main.a2b00eba.chunk.js"
+    "static/js/main.a8f03fd9.chunk.js"
   ]
 }
