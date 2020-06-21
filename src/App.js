@@ -8,7 +8,7 @@ const App = () => {
         <div className="App">
             <ToolbarContainer/>
                 <Switch>
-                    <Route path="/"/>
+                    <Route path="/" exact/>
                     <Route path="/photography"/>
                     <Route path="/design"/>
                     <Route path="/programming"/>

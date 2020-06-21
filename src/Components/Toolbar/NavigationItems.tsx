@@ -8,6 +8,7 @@ const NavigationItems = () => {
         <li className={styles.NavigationItem}>
           <NavLink
             to=''
+            exact
             activeClassName={styles.active}>Home
           </NavLink>
         </li>
