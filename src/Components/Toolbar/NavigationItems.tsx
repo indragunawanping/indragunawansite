@@ -7,6 +7,12 @@ const NavigationItems = () => {
       <ul className={styles.NavigationItems}>
         <li className={styles.NavigationItem}>
           <NavLink
+            to=''
+            activeClassName={styles.active}>Home
+          </NavLink>
+        </li>
+        <li className={styles.NavigationItem}>
+          <NavLink
             to='photography'
             activeClassName={styles.active}>Photography
           </NavLink>

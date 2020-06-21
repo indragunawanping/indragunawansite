@@ -23,6 +23,11 @@
     align-items: center;
 }
 
+.Logo img {
+    max-width: 40px;
+    max-height: 40px;
+}
+
 .Logo :hover{
     cursor: pointer;
 }

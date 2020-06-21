@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react';
 import styles from './SideDrawer.module.css';
-import logo from '../../assets/webp/logo-ig.webp';
+import logo from '../../assets/webp/logo-ig-v2.webp';
 import NavigationItems from "./NavigationItems";
 
 interface SideDrawerProps {
