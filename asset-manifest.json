@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/indragunawansite/static/css/main.ca2e1258.chunk.css",
-    "main.js": "/indragunawansite/static/js/main.8d783526.chunk.js",
-    "main.js.map": "/indragunawansite/static/js/main.8d783526.chunk.js.map",
+    "main.css": "/indragunawansite/static/css/main.b676a5b2.chunk.css",
+    "main.js": "/indragunawansite/static/js/main.7cc29191.chunk.js",
+    "main.js.map": "/indragunawansite/static/js/main.7cc29191.chunk.js.map",
     "runtime-main.js": "/indragunawansite/static/js/runtime-main.0b74b15c.js",
     "runtime-main.js.map": "/indragunawansite/static/js/runtime-main.0b74b15c.js.map",
     "static/css/2.d2d707d6.chunk.css": "/indragunawansite/static/css/2.d2d707d6.chunk.css",
-    "static/js/2.5ea47cee.chunk.js": "/indragunawansite/static/js/2.5ea47cee.chunk.js",
-    "static/js/2.5ea47cee.chunk.js.map": "/indragunawansite/static/js/2.5ea47cee.chunk.js.map",
+    "static/js/2.4fd8e06c.chunk.js": "/indragunawansite/static/js/2.4fd8e06c.chunk.js",
+    "static/js/2.4fd8e06c.chunk.js.map": "/indragunawansite/static/js/2.4fd8e06c.chunk.js.map",
     "index.html": "/indragunawansite/index.html",
-    "precache-manifest.55224b93f7b1a8de6be1b49ff7d04205.js": "/indragunawansite/precache-manifest.55224b93f7b1a8de6be1b49ff7d04205.js",
+    "precache-manifest.26be4643ed8cd02f7f57f74ab33e3b57.js": "/indragunawansite/precache-manifest.26be4643ed8cd02f7f57f74ab33e3b57.js",
     "service-worker.js": "/indragunawansite/service-worker.js",
     "static/css/2.d2d707d6.chunk.css.map": "/indragunawansite/static/css/2.d2d707d6.chunk.css.map",
-    "static/css/main.ca2e1258.chunk.css.map": "/indragunawansite/static/css/main.ca2e1258.chunk.css.map",
-    "static/js/2.5ea47cee.chunk.js.LICENSE.txt": "/indragunawansite/static/js/2.5ea47cee.chunk.js.LICENSE.txt",
+    "static/css/main.b676a5b2.chunk.css.map": "/indragunawansite/static/css/main.b676a5b2.chunk.css.map",
+    "static/js/2.4fd8e06c.chunk.js.LICENSE.txt": "/indragunawansite/static/js/2.4fd8e06c.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/indragunawansite/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/flat-mountains.webp": "/indragunawansite/static/media/flat-mountains.89e4415f.webp",
     "static/media/foto-profil-rounded.webp": "/indragunawansite/static/media/foto-profil-rounded.f3e77abe.webp",
     "static/media/logo-ig-v3.webp": "/indragunawansite/static/media/logo-ig-v3.057674eb.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.0b74b15c.js",
     "static/css/2.d2d707d6.chunk.css",
-    "static/js/2.5ea47cee.chunk.js",
-    "static/css/main.ca2e1258.chunk.css",
-    "static/js/main.8d783526.chunk.js"
+    "static/js/2.4fd8e06c.chunk.js",
+    "static/css/main.b676a5b2.chunk.css",
+    "static/js/main.7cc29191.chunk.js"
   ]
 }
