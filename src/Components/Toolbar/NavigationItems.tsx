@@ -7,32 +7,32 @@ const NavigationItems = () => {
       <ul className={styles.NavigationItems}>
         <li className={styles.NavigationItem}>
           <NavLink
-            to='indragunawansite'
+            to='/indragunawansite/'
             exact
             activeClassName={styles.active}>Home
           </NavLink>
         </li>
         <li className={styles.NavigationItem}>
           <NavLink
-            to='photography'
+            to='/indragunawansite/photography'
             activeClassName={styles.active}>Photography
           </NavLink>
         </li>
         <li className={styles.NavigationItem}>
           <NavLink
-            to='design'
+            to='/indragunawansite/design'
             activeClassName={styles.active}>Design
           </NavLink>
         </li>
         <li className={styles.NavigationItem}>
           <NavLink
-            to='programming'
+            to='/indragunawansite/programming'
             activeClassName={styles.active}>Programming
           </NavLink>
         </li>
         <li className={styles.NavigationItem}>
           <NavLink
-            to='about-me'
+            to='/indragunawansite/about-me'
             activeClassName={styles.active}>About Me
           </NavLink>
         </li>

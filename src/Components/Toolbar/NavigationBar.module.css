@@ -1,9 +1,6 @@
 .NavigationBar {
     height: 64px;
     width: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
     background-color: #032337;
     display: flex;
     justify-content: space-between;

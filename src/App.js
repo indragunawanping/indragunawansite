@@ -1,22 +1,28 @@
 import React from 'react';
 import './App.css';
 import ToolbarContainer from "./Containers/ToolbarContainer";
-import { Switch, Route, Redirect } from "react-router-dom";
+import {Route, Switch} from "react-router-dom";
+import HomePageContainer from "./Containers/HomePageContainer";
+import PhotographyPageContainer from "./Containers/PhotographyPageContainer";
+import ProgrammingPageContainer from "./Containers/ProgrammingPageContainer";
+import DesignPageContainer from "./Containers/DesignPageContainer";
+import AboutMePageContainer from "./Containers/AboutMePageContainer";
 
 const App = () => {
     return (
         <div className="App">
             <ToolbarContainer/>
+            <div>
                 <Switch>
-                    <Route path="/indragunawansite"/>
-                    <Route path="/photography"/>
-                    <Route path="/design"/>
-                    <Route path="/programming"/>
-                    <Route path="/aboutme"/>
-                    <Redirect from="/" to="/indragunawansite"/>
+                    <Route path="/indragunawansite/" exact component={HomePageContainer}/>
+                    <Route path="/indragunawansite/photography" component={PhotographyPageContainer}/>
+                    <Route path="/indragunawansite/design" component={DesignPageContainer}/>
+                    <Route path="/indragunawansite/programming" component={ProgrammingPageContainer}/>
+                    <Route path="/indragunawansite/about-me" component={AboutMePageContainer}/>
                 </Switch>
+            </div>
         </div>
-);
+    );
 };
 
 export default App;

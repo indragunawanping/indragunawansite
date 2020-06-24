@@ -1,0 +1,129 @@
+@media (max-width: 499px) {
+    .HomePageContainer{
+        margin-top: 14vh;
+    }
+
+    .ProfileImage{
+        max-width: 40%;
+    }
+
+    .TextContainer{
+        margin-top: 20px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .Name{
+        font-size: 40px;
+        font-weight: bold;
+        color: #021826;
+    }
+
+    .Title{
+        font-size: 20px;
+        color: #032337;
+    }
+
+    .Button{
+        background-color: white !important;
+        margin-top: 14px !important;
+        padding: 0 25px !important;
+        height: 52px;
+        border: 2px solid #325852 !important;
+        color: #325852 !important;
+        border-radius: 8px !important;
+        font-size: 16px !important;
+        width: 40%;
+        transition-duration: 0.4s !important;
+    }
+
+    .Button:hover{
+        background: #325852  !important;
+        color: #E0DEC7 !important;
+    }
+
+    .Footer{
+        opacity: 1;
+        position:fixed;
+        right:0;
+        bottom:0;
+        margin:0;
+        padding:0;
+        width:100%;
+        z-index: -500;
+        background-position: center !important;
+        background-size: cover;;
+    }
+}
+
+@media (min-width: 500px) {
+    .HomePageContainer{
+        display: flex;
+        align-items: center;
+        margin-top: 14vh;
+    }
+
+    .ImageContainer{
+        width: 60%;
+        margin-left: 10%;
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    .ProfileImage{
+        display: flex;
+        max-width: 360px;
+        box-shadow: 0 20px 50px -20px #021826;
+        border-radius: 240px;
+    }
+
+    .TextContainer{
+        width: 40%;
+        margin-right: 10%;
+        text-align: right;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .Name{
+        font-size: 54px;
+        font-weight: bold;
+        color: #021826;
+    }
+
+    .Title{
+        font-size: 28px;
+        color: #032337;
+    }
+
+    .Button{
+        background-color: white !important;
+        margin-top: 28px !important;
+        padding: 0 25px !important;
+        height: 52px;
+        border: 2px solid #325852 !important;
+        color: #325852 !important;
+        border-radius: 8px !important;
+        font-size: 16px !important;
+        width: 40%;
+        transition-duration: 0.4s !important;
+    }
+
+    .Button:hover{
+        background: #325852  !important;
+        color: #E0DEC7 !important;
+    }
+
+    .Footer{
+        position:fixed;
+        right:0;
+        bottom:0;
+        margin:0;
+        padding:0;
+        width:100%;
+        z-index: -500;
+        background-position: center !important;
+        background-size: cover;;
+    }
+}

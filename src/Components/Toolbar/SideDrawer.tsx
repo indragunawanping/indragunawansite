@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react';
 import styles from './SideDrawer.module.css';
-import logo from '../../assets/webp/logo-ig-v2.webp';
+import logo from '../../assets/webp/logo-ig-v3.webp';
 import NavigationItems from "./NavigationItems";
 
 interface SideDrawerProps {
@@ -18,13 +18,11 @@ const SideDrawer: React.FC<SideDrawerProps> = (props: SideDrawerProps) => {
   return (
     <Fragment>
       {
-        props.isSideDrawerShow?
+        props.isSideDrawerShow ?
           <div className={styles.Backdrop} onClick={props.handleShowOrHideDrawerToggleClick}/> : null
       }
       <div className={attachedClasses.join(' ')}>
-        <div className={styles.Logo} onClick={props.handleLogoClick}>
-          <img src={logo} alt="alt-ping-logo"/>
-        </div>
+        <img className={styles.Logo} onClick={props.handleLogoClick} src={logo} alt="alt-ping-logo"/>
         <nav>
           <NavigationItems/>
         </nav>
