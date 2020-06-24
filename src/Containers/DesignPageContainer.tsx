@@ -1,8 +1,9 @@
 import React from 'react';
+import DesignPage from "../Components/DesignPage";
 
 const DesignPageContainer = () => {
   return(
-    <div>Design page container</div>
+    <DesignPage/>
   )
 };
 
