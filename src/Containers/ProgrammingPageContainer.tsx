@@ -1,8 +1,9 @@
 import React from 'react';
+import ProgrammingPage from "../Components/ProgrammingPage";
 
 const ProgrammingPageContainer = () => {
   return(
-    <div>Programming page container</div>
+    <ProgrammingPage/>
   )
 };
 

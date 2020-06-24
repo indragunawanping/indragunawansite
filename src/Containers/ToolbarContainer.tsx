@@ -9,10 +9,15 @@ const ToolbarContainer = () => {
 
   const handleLogoClick = () => {
     toolbarHistory.push('/indragunawansite/');
+    setIsSideDrawerShow(false);
   };
 
   const handleShowOrHideDrawerToggleClick = () => {
     setIsSideDrawerShow(!isSideDrawerShow);
+  };
+
+  const handleDrawerNavClick = () => {
+    setIsSideDrawerShow(false);
   };
 
   return (
@@ -22,6 +27,7 @@ const ToolbarContainer = () => {
       <SideDrawer isSideDrawerShow={isSideDrawerShow}
                   handleLogoClick={handleLogoClick}
                   handleShowOrHideDrawerToggleClick={handleShowOrHideDrawerToggleClick}
+                  handleDrawerNavClick={handleDrawerNavClick}
       />
     </Fragment>
   )

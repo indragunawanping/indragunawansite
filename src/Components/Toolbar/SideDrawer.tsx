@@ -7,6 +7,7 @@ interface SideDrawerProps {
   isSideDrawerShow: boolean;
   handleLogoClick: () => void;
   handleShowOrHideDrawerToggleClick: () => void;
+  handleDrawerNavClick: () => void;
 }
 
 const SideDrawer: React.FC<SideDrawerProps> = (props: SideDrawerProps) => {
@@ -23,7 +24,7 @@ const SideDrawer: React.FC<SideDrawerProps> = (props: SideDrawerProps) => {
       }
       <div className={attachedClasses.join(' ')}>
         <img className={styles.Logo} onClick={props.handleLogoClick} src={logo} alt="alt-ping-logo"/>
-        <nav>
+        <nav onClick={props.handleDrawerNavClick}>
           <NavigationItems/>
         </nav>
       </div>
