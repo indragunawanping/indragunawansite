@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/indragunawansite/static/css/main.3d38e92f.chunk.css",
-    "main.js": "/indragunawansite/static/js/main.f22da1a9.chunk.js",
-    "main.js.map": "/indragunawansite/static/js/main.f22da1a9.chunk.js.map",
+    "main.css": "/indragunawansite/static/css/main.55c70b55.chunk.css",
+    "main.js": "/indragunawansite/static/js/main.5d6ddf0b.chunk.js",
+    "main.js.map": "/indragunawansite/static/js/main.5d6ddf0b.chunk.js.map",
     "runtime-main.js": "/indragunawansite/static/js/runtime-main.0b74b15c.js",
     "runtime-main.js.map": "/indragunawansite/static/js/runtime-main.0b74b15c.js.map",
-    "static/css/2.a7c8bcaf.chunk.css": "/indragunawansite/static/css/2.a7c8bcaf.chunk.css",
-    "static/js/2.88751e8b.chunk.js": "/indragunawansite/static/js/2.88751e8b.chunk.js",
-    "static/js/2.88751e8b.chunk.js.map": "/indragunawansite/static/js/2.88751e8b.chunk.js.map",
+    "static/css/2.f8fa95ff.chunk.css": "/indragunawansite/static/css/2.f8fa95ff.chunk.css",
+    "static/js/2.d151fc1e.chunk.js": "/indragunawansite/static/js/2.d151fc1e.chunk.js",
+    "static/js/2.d151fc1e.chunk.js.map": "/indragunawansite/static/js/2.d151fc1e.chunk.js.map",
     "index.html": "/indragunawansite/index.html",
-    "precache-manifest.da4c67c240b77f603be4c809fe250201.js": "/indragunawansite/precache-manifest.da4c67c240b77f603be4c809fe250201.js",
+    "precache-manifest.efcb79f933c0d62c20417f4a487921c3.js": "/indragunawansite/precache-manifest.efcb79f933c0d62c20417f4a487921c3.js",
     "service-worker.js": "/indragunawansite/service-worker.js",
-    "static/css/2.a7c8bcaf.chunk.css.map": "/indragunawansite/static/css/2.a7c8bcaf.chunk.css.map",
-    "static/css/main.3d38e92f.chunk.css.map": "/indragunawansite/static/css/main.3d38e92f.chunk.css.map",
-    "static/js/2.88751e8b.chunk.js.LICENSE.txt": "/indragunawansite/static/js/2.88751e8b.chunk.js.LICENSE.txt",
+    "static/css/2.f8fa95ff.chunk.css.map": "/indragunawansite/static/css/2.f8fa95ff.chunk.css.map",
+    "static/css/main.55c70b55.chunk.css.map": "/indragunawansite/static/css/main.55c70b55.chunk.css.map",
+    "static/js/2.d151fc1e.chunk.js.LICENSE.txt": "/indragunawansite/static/js/2.d151fc1e.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/indragunawansite/static/media/outline-icons.ef60a4f6.woff",
     "static/media/flat-mountains.webp": "/indragunawansite/static/media/flat-mountains.89e4415f.webp",
     "static/media/foto-profil-rounded.webp": "/indragunawansite/static/media/foto-profil-rounded.f3e77abe.webp",
@@ -21,9 +21,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0b74b15c.js",
-    "static/css/2.a7c8bcaf.chunk.css",
-    "static/js/2.88751e8b.chunk.js",
-    "static/css/main.3d38e92f.chunk.css",
-    "static/js/main.f22da1a9.chunk.js"
+    "static/css/2.f8fa95ff.chunk.css",
+    "static/js/2.d151fc1e.chunk.js",
+    "static/css/main.55c70b55.chunk.css",
+    "static/js/main.5d6ddf0b.chunk.js"
   ]
 }
