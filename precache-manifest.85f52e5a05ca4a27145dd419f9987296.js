@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f0e39d4e4470429599b52ce6038361e",
+    "revision": "b3140b6187cb3cb92b385d64b0ef067c",
     "url": "/indragunawansite/index.html"
   },
   {
-    "revision": "a6de67b03e3f2e6241f9",
+    "revision": "b466d9ad398f317c5431",
     "url": "/indragunawansite/static/css/2.f8fa95ff.chunk.css"
   },
   {
-    "revision": "63ea3a714830f12b8625",
-    "url": "/indragunawansite/static/css/main.6b37e191.chunk.css"
+    "revision": "1eb6cd3142a1d37e332e",
+    "url": "/indragunawansite/static/css/main.32471921.chunk.css"
   },
   {
-    "revision": "a6de67b03e3f2e6241f9",
-    "url": "/indragunawansite/static/js/2.d151fc1e.chunk.js"
+    "revision": "b466d9ad398f317c5431",
+    "url": "/indragunawansite/static/js/2.ab7ee842.chunk.js"
   },
   {
     "revision": "6ad3abf20cc4e53b1b42f6c2844608bf",
-    "url": "/indragunawansite/static/js/2.d151fc1e.chunk.js.LICENSE.txt"
+    "url": "/indragunawansite/static/js/2.ab7ee842.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63ea3a714830f12b8625",
-    "url": "/indragunawansite/static/js/main.f2cb64d3.chunk.js"
+    "revision": "1eb6cd3142a1d37e332e",
+    "url": "/indragunawansite/static/js/main.41967522.chunk.js"
   },
   {
     "revision": "4a047295781ac108dd67",
@@ -80,8 +80,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/indragunawansite/static/media/icons.faff9214.woff"
   },
   {
+    "revision": "c6abdb54f85498d4cd262a1ee4162d20",
+    "url": "/indragunawansite/static/media/logo-WES.c6abdb54.webp"
+  },
+  {
+    "revision": "ecd225c6afdb1ecaed4961457e7a15ba",
+    "url": "/indragunawansite/static/media/logo-agile-technica.ecd225c6.webp"
+  },
+  {
+    "revision": "82e03623016cf5aca63330fbbd032081",
+    "url": "/indragunawansite/static/media/logo-himti.82e03623.webp"
+  },
+  {
     "revision": "057674eb7445f75930f6b1bdcb32a706",
     "url": "/indragunawansite/static/media/logo-ig-v3.057674eb.webp"
+  },
+  {
+    "revision": "4698b4735ceb55908234b7af84929073",
+    "url": "/indragunawansite/static/media/logo-obscura.4698b473.webp"
+  },
+  {
+    "revision": "252261fcff4f81f53aec48af631e4f10",
+    "url": "/indragunawansite/static/media/logo-ppu.252261fc.webp"
+  },
+  {
+    "revision": "8b4bfdd035142d97100364168abf2e79",
+    "url": "/indragunawansite/static/media/logo-rumpin.8b4bfdd0.webp"
+  },
+  {
+    "revision": "65bf89841eefa2a6bf70ed24049899b4",
+    "url": "/indragunawansite/static/media/logo-umn.65bf8984.webp"
+  },
+  {
+    "revision": "f6e9deb97f27501b84d13420b84b982e",
+    "url": "/indragunawansite/static/media/logo-xaverius.f6e9deb9.webp"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
