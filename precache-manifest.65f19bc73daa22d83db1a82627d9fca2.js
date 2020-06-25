@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3140b6187cb3cb92b385d64b0ef067c",
+    "revision": "7de974c04a382d0b4f481c013a23783e",
     "url": "/indragunawansite/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/indragunawansite/static/css/2.f8fa95ff.chunk.css"
   },
   {
-    "revision": "1eb6cd3142a1d37e332e",
-    "url": "/indragunawansite/static/css/main.32471921.chunk.css"
+    "revision": "0821e534b3d61f35026b",
+    "url": "/indragunawansite/static/css/main.59bd7ef7.chunk.css"
   },
   {
     "revision": "b466d9ad398f317c5431",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/indragunawansite/static/js/2.ab7ee842.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1eb6cd3142a1d37e332e",
-    "url": "/indragunawansite/static/js/main.41967522.chunk.js"
+    "revision": "0821e534b3d61f35026b",
+    "url": "/indragunawansite/static/js/main.159d4ba8.chunk.js"
   },
   {
     "revision": "4a047295781ac108dd67",
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/indragunawansite/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "c6abdb54f85498d4cd262a1ee4162d20",
-    "url": "/indragunawansite/static/media/logo-WES.c6abdb54.webp"
+    "revision": "82174445ed262a3dd038324cb849ca27",
+    "url": "/indragunawansite/static/media/logo-WES.82174445.webp"
   },
   {
     "revision": "ecd225c6afdb1ecaed4961457e7a15ba",
@@ -108,12 +108,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/indragunawansite/static/media/logo-rumpin.8b4bfdd0.webp"
   },
   {
-    "revision": "65bf89841eefa2a6bf70ed24049899b4",
-    "url": "/indragunawansite/static/media/logo-umn.65bf8984.webp"
+    "revision": "0e3806d4cf91860dd6ed3d29722db377",
+    "url": "/indragunawansite/static/media/logo-umn.0e3806d4.webp"
   },
   {
-    "revision": "f6e9deb97f27501b84d13420b84b982e",
-    "url": "/indragunawansite/static/media/logo-xaverius.f6e9deb9.webp"
+    "revision": "f1ad81e0c92ae58a14ad148331393fe6",
+    "url": "/indragunawansite/static/media/logo-xaverius.f1ad81e0.webp"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
