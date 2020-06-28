@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/indragunawansite/static/css/main.9b665af1.chunk.css",
-    "main.js": "/indragunawansite/static/js/main.2fa6c6e1.chunk.js",
-    "main.js.map": "/indragunawansite/static/js/main.2fa6c6e1.chunk.js.map",
+    "main.js": "/indragunawansite/static/js/main.be76b4a7.chunk.js",
+    "main.js.map": "/indragunawansite/static/js/main.be76b4a7.chunk.js.map",
     "runtime-main.js": "/indragunawansite/static/js/runtime-main.0b74b15c.js",
     "runtime-main.js.map": "/indragunawansite/static/js/runtime-main.0b74b15c.js.map",
     "static/css/2.be754abd.chunk.css": "/indragunawansite/static/css/2.be754abd.chunk.css",
-    "static/js/2.e809ad29.chunk.js": "/indragunawansite/static/js/2.e809ad29.chunk.js",
-    "static/js/2.e809ad29.chunk.js.map": "/indragunawansite/static/js/2.e809ad29.chunk.js.map",
+    "static/js/2.843e8fe0.chunk.js": "/indragunawansite/static/js/2.843e8fe0.chunk.js",
+    "static/js/2.843e8fe0.chunk.js.map": "/indragunawansite/static/js/2.843e8fe0.chunk.js.map",
     "index.html": "/indragunawansite/index.html",
-    "precache-manifest.6726de133a6dc13865c4e2101742529e.js": "/indragunawansite/precache-manifest.6726de133a6dc13865c4e2101742529e.js",
+    "precache-manifest.d1eac8cfdfe104a3834524788f108559.js": "/indragunawansite/precache-manifest.d1eac8cfdfe104a3834524788f108559.js",
     "service-worker.js": "/indragunawansite/service-worker.js",
     "static/css/2.be754abd.chunk.css.map": "/indragunawansite/static/css/2.be754abd.chunk.css.map",
     "static/css/main.9b665af1.chunk.css.map": "/indragunawansite/static/css/main.9b665af1.chunk.css.map",
-    "static/js/2.e809ad29.chunk.js.LICENSE.txt": "/indragunawansite/static/js/2.e809ad29.chunk.js.LICENSE.txt",
+    "static/js/2.843e8fe0.chunk.js.LICENSE.txt": "/indragunawansite/static/js/2.843e8fe0.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/indragunawansite/static/media/outline-icons.ef60a4f6.woff",
     "static/media/design-0.webp": "/indragunawansite/static/media/design-0.3ae6466c.webp",
     "static/media/design-1.webp": "/indragunawansite/static/media/design-1.bfca90db.webp",
@@ -71,8 +71,8 @@
   "entrypoints": [
     "static/js/runtime-main.0b74b15c.js",
     "static/css/2.be754abd.chunk.css",
-    "static/js/2.e809ad29.chunk.js",
+    "static/js/2.843e8fe0.chunk.js",
     "static/css/main.9b665af1.chunk.css",
-    "static/js/main.2fa6c6e1.chunk.js"
+    "static/js/main.be76b4a7.chunk.js"
   ]
 }
