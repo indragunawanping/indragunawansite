@@ -1,29 +1,46 @@
 import React, { Fragment } from 'react';
 import Carousel from "./Carousel";
+import styles from "./DesignPage.module.css";
+import { designCarouselImageUrl } from "../master-data/carouselImageUrl";
 
-const DesignPage = () => {
-  let designUrl: JSX.Element[] = [];
+interface DesignPageProps {
+  designTools: JSX.Element[];
+}
 
-  designUrl.push(
-    <Fragment key='design'>
-      <img src="https://i.ibb.co/9HjP0j0/design-0.png" alt="design-0"/>
-      <img src="https://i.ibb.co/C0NgCsC/design-1.png" alt="design-1"/>
-      <img src="https://i.ibb.co/SKj4j4D/design-2.png" alt="design-2"/>
-      <img src="https://i.ibb.co/JR1Ffx7/design-3.png" alt="design-3"/>
-      <img src="https://i.ibb.co/QmNCP35/design-4.png" alt="design-4"/>
-      <img src="https://i.ibb.co/QkD98Pd/design-5.png" alt="design-5"/>
-      <img src="https://i.ibb.co/DDfVKS2/design-6.png" alt="design-6"/>
-      <img src="https://i.ibb.co/YkGSMZF/design-7.png" alt="design-7"/>
-      <img src="https://i.ibb.co/nB75fJv/design-8.png" alt="design-8"/>
-      <img src="https://i.ibb.co/cYptzDK/design-9.png" alt="design-9"/>
-      <img src="https://i.ibb.co/WkVnFR7/design-10.png" alt="design-10"/>
-    </Fragment>
-  );
+const DesignPage: React.FC<DesignPageProps> = (props: DesignPageProps) => {
+  const renderDesignImageUrl = () => {
+    let designUrl: JSX.Element[] = [];
+
+    for (const imageUrl of designCarouselImageUrl) {
+      designUrl.push(
+        <img key={imageUrl} src={imageUrl} alt={imageUrl}/>
+      );
+    }
+
+    return designUrl;
+  };
 
   return (
-    <div>
-      <Carousel imageComponents={designUrl}/>
-    </div>
+    <Fragment>
+      <Carousel imageComponents={renderDesignImageUrl()}/>
+      <div className={styles.PhotographyContainer}>
+        <div className={styles.ToolsContainer}>
+          <span className={styles.Header}>
+          Tools
+        </span>
+          <div className={styles.ToolsContent}>
+            {props.designTools}
+          </div>
+        </div>
+
+        {/*<span className={styles.Header}>*/}
+        {/*  Gallery*/}
+        {/*</span>*/}
+        {/*<div className={styles.GalleryContainer}>*/}
+        {/*  <Gallery photos={photos}/>*/}
+        {/*</div>*/}
+      </div>
+    </Fragment>
   )
 };
 

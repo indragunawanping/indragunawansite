@@ -1,35 +1,32 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import styles from './ProgrammingPage.module.css';
-import { Card } from 'semantic-ui-react';
-import cards from "../master-data/cardsObject";
 
-const ProgrammingPage = () => {
-  const renderCards = () => {
-    const cardsElements: JSX.Element[] = [];
-    for (const card of cards) {
-      cardsElements.push(
-        <Card
-          image={card.image}
-          header={card.header}
-          meta={card.meta}
-          description={card.description}
-          extra={card.extra}
-          className={styles.Card}
-        />
-      )
-    }
-    return cardsElements;
-  };
+interface ProgrammingPageProps {
+  programmingCarousel: JSX.Element[];
+  programmingTechnologies: JSX.Element[];
+}
 
+const ProgrammingPage: React.FC<ProgrammingPageProps> = (props: ProgrammingPageProps) => {
   return (
-    <div className={styles.PageContainer}>
-      <span className={styles.Header}>
-        Projects
-      </span>
-      <div className={styles.Cards}>
-        {renderCards()}
+    <Fragment>
+      <div className={styles.TechnologiesContainer}>
+        <span className={styles.HeaderLight}>
+          Technologies
+        </span>
+          <div className={styles.TechnologiesContent}>
+            {props.programmingTechnologies}
+          </div>
       </div>
-    </div>
+
+      <div className={styles.ProjectsContainer}>
+        <span className={styles.HeaderDark}>
+          Projects
+        </span>
+        <div className={styles.Cards}>
+          {props.programmingCarousel}
+        </div>
+      </div>
+    </Fragment>
   )
 };
 

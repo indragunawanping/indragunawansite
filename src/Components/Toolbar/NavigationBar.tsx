@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../assets/webp/logo-ig-v3.webp';
+import logo from '../../assets/logo-ig-v3.webp';
 import styles from './NavigationBar.module.css';
 import NavigationItems from "./NavigationItems";
 

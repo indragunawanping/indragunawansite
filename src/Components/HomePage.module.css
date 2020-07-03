@@ -3,6 +3,10 @@
         margin-top: 14vh;
     }
 
+    .ImageContainer{
+       text-align: center;
+    }
+
     .ProfileImage{
         max-width: 40%;
     }

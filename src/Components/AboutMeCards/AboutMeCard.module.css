@@ -1,0 +1,36 @@
+@media (max-width: 499px) {
+    .Card {
+        margin: 0 auto !important;
+        margin-bottom: 20px !important;
+    }
+}
+
+@media (min-width: 499px) {
+    .Card {
+        width: 100% !important;
+        margin: 0 !important;
+    }
+}
+
+.CardHeader {
+    background: linear-gradient(270deg, rgba(3, 35, 55, 1) 0%, rgba(2, 24, 38, 1) 100%) !important;
+}
+
+.CardHeaderText {
+    color: #E0DEC7 !important;
+}
+
+.FeedEvent {
+    margin: 8px 0 !important;
+}
+
+.FeedSummary {
+    margin-top: -7px !important;
+}
+
+.FeedDate {
+    margin: 0 !important;
+}
+
+
+

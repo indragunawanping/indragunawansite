@@ -1,4 +1,4 @@
-const cards = [
+const projectCards = [
   {
     image:'https://i.ibb.co/6F5byT4/programming-sewain.png',
     header:'sewa.in',
@@ -36,4 +36,4 @@ const cards = [
   }
 ];
 
-export default cards;
+export default projectCards;

@@ -1,0 +1,110 @@
+@media (max-width: 499px) {
+    .HomePageContainer {
+        margin-top: 14vh;
+    }
+
+    .ImageContainer {
+        text-align: center;
+    }
+
+    .ProfileImage {
+        max-width: 40%;
+    }
+
+    .TextContainer {
+        margin-top: 20px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .Name {
+        font-size: 40px;
+        font-weight: bold;
+        color: #021826;
+    }
+
+    .Title {
+        font-size: 20px;
+        color: #032337;
+    }
+
+    .Contact {
+        max-width: 20px;
+    }
+
+    .ContactContainer {
+        margin: 20px 0;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+
+    .ContactSmallContainer {
+        display: flex;
+        align-items: center;
+        margin-left: 10px;
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 500px) {
+    .ProfileCardContainer {
+        display: flex;
+        align-items: center;
+        align-content: space-between;
+        margin: 5%;
+    }
+
+    .ImageContainer {
+        width: 60%;
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    .ProfileImage {
+        display: flex;
+        max-width: 240px;
+        box-shadow: 0 20px 50px -20px #021826;
+        border-radius: 240px;
+    }
+
+    .TextContainer {
+        width: 60%;
+        text-align: right;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+    }
+
+    .Name {
+        font-size: 54px;
+        font-weight: bold;
+        color: #021826;
+    }
+
+    .Title {
+        font-size: 28px;
+        color: #032337;
+        margin-bottom: 20px;
+    }
+
+    .ContactContainer {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        flex-wrap: wrap;
+    }
+
+    .ContactSmallContainer {
+        display: flex;
+        align-items: center;
+        margin-left: 10px;
+    }
+
+    .Contact {
+        max-width: 30px;
+    }
+}
