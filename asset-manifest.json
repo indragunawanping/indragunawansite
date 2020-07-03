@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/indragunawansite/static/css/main.c3f53255.chunk.css",
-    "main.js": "/indragunawansite/static/js/main.33050040.chunk.js",
-    "main.js.map": "/indragunawansite/static/js/main.33050040.chunk.js.map",
+    "main.js": "/indragunawansite/static/js/main.e0a3170f.chunk.js",
+    "main.js.map": "/indragunawansite/static/js/main.e0a3170f.chunk.js.map",
     "runtime-main.js": "/indragunawansite/static/js/runtime-main.0b74b15c.js",
     "runtime-main.js.map": "/indragunawansite/static/js/runtime-main.0b74b15c.js.map",
     "static/css/2.28189fd1.chunk.css": "/indragunawansite/static/css/2.28189fd1.chunk.css",
-    "static/js/2.6c00d657.chunk.js": "/indragunawansite/static/js/2.6c00d657.chunk.js",
-    "static/js/2.6c00d657.chunk.js.map": "/indragunawansite/static/js/2.6c00d657.chunk.js.map",
+    "static/js/2.47217ae3.chunk.js": "/indragunawansite/static/js/2.47217ae3.chunk.js",
+    "static/js/2.47217ae3.chunk.js.map": "/indragunawansite/static/js/2.47217ae3.chunk.js.map",
     "index.html": "/indragunawansite/index.html",
-    "precache-manifest.4a2b610205dd08c6aebabab4a475d111.js": "/indragunawansite/precache-manifest.4a2b610205dd08c6aebabab4a475d111.js",
+    "precache-manifest.092202bc9341b175ef434d950f3f68ac.js": "/indragunawansite/precache-manifest.092202bc9341b175ef434d950f3f68ac.js",
     "service-worker.js": "/indragunawansite/service-worker.js",
     "static/css/2.28189fd1.chunk.css.map": "/indragunawansite/static/css/2.28189fd1.chunk.css.map",
     "static/css/main.c3f53255.chunk.css.map": "/indragunawansite/static/css/main.c3f53255.chunk.css.map",
-    "static/js/2.6c00d657.chunk.js.LICENSE.txt": "/indragunawansite/static/js/2.6c00d657.chunk.js.LICENSE.txt",
+    "static/js/2.47217ae3.chunk.js.LICENSE.txt": "/indragunawansite/static/js/2.47217ae3.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/indragunawansite/static/media/outline-icons.ef60a4f6.woff",
     "static/media/design-0.webp": "/indragunawansite/static/media/design-0.3ae6466c.webp",
     "static/media/design-1.webp": "/indragunawansite/static/media/design-1.bfca90db.webp",
@@ -43,6 +43,7 @@
     "static/media/logo-instagram.webp": "/indragunawansite/static/media/logo-instagram.bfbcfc0f.webp",
     "static/media/logo-ionic.webp": "/indragunawansite/static/media/logo-ionic.8f73c706.webp",
     "static/media/logo-javascript.webp": "/indragunawansite/static/media/logo-javascript.f86c1692.webp",
+    "static/media/logo-jquery.webp": "/indragunawansite/static/media/logo-jquery.04d26515.webp",
     "static/media/logo-lightroom.webp": "/indragunawansite/static/media/logo-lightroom.92c6dd1e.webp",
     "static/media/logo-linkedin.webp": "/indragunawansite/static/media/logo-linkedin.f8bf3ea0.webp",
     "static/media/logo-mysql.webp": "/indragunawansite/static/media/logo-mysql.147c2539.webp",
@@ -71,8 +72,8 @@
   "entrypoints": [
     "static/js/runtime-main.0b74b15c.js",
     "static/css/2.28189fd1.chunk.css",
-    "static/js/2.6c00d657.chunk.js",
+    "static/js/2.47217ae3.chunk.js",
     "static/css/main.c3f53255.chunk.css",
-    "static/js/main.33050040.chunk.js"
+    "static/js/main.e0a3170f.chunk.js"
   ]
 }
