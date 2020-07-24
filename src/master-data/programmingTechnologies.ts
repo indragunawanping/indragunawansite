@@ -35,7 +35,7 @@ const programmingTechnologies = [
   },
   {
     image: logoReact,
-    content: 'React'
+    content: 'React JS'
   },
   {
     image: logoRedux,

@@ -10,7 +10,7 @@ interface HomePageProps {
 
 const HomePage: React.FC<HomePageProps> = (props: HomePageProps) => {
   return(
-    <div className={styles.HomePageContainer}>
+    <div className={styles.HomePage}>
       <div className={styles.ImageContainer}>
         <img className={styles.ProfileImage} src={fotoProfil} alt="foto_profil"/>
       </div>

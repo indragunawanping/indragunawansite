@@ -7,7 +7,7 @@ import ProfileCard from "./AboutMeCards/ProfileCard";
 
 const AboutMePage = () => {
   return (
-    <div className={styles.CardsContainer}>
+    <div className={styles.AboutMePage}>
       <ProfileCard/>
       <div className={styles.CardsContainerRow}>
         <OrganizationsCard/>

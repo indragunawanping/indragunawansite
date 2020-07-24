@@ -30,7 +30,7 @@ const ProfileCard = () => {
           </div>
           <div className={styles.ContactSmallContainer}>
             <img className={styles.Contact} src={logoLinkedIn} alt=""/>
-            <a href="https://www.linkedin.com/in/indra-gunawan-2311bb1ab" target="_blank">www.linkedin.com/in/indra-gunawan-2311bb1ab</a>
+            <a href="https://www.linkedin.com/in/indra-gunawan-2311bb1ab" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/indra-gunawan-2311bb1ab</a>
           </div>
         </div>
       </div>

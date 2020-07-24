@@ -1,7 +1,8 @@
 @media (max-width: 499px) {
-    .CardsContainer {
+    .AboutMePage {
         width: 90%;
-        margin: 40px auto;
+        padding-top: 64px;
+        margin: 40px auto 40px;
     }
 
     .Quotes {
@@ -18,9 +19,10 @@
 }
 
 @media (min-width: 500px) {
-    .CardsContainer {
+    .AboutMePage {
         width: 90%;
-        margin: 20px auto;
+        padding-top: 64px;
+        margin: 0 auto;
     }
 
     .CardsContainerRow {

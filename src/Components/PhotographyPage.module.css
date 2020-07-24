@@ -1,3 +1,7 @@
+.PhotographyPage{
+    padding-top: 64px;
+}
+
 .Header {
     color: #E0DEC7;
     font-weight: 600;
@@ -36,7 +40,8 @@
     .ToolsContent img {
         margin-right: 20px !important;
         font-size: 12px;
-        max-width: 20%;
+        width: 20%;
+        height: 20%;
         box-shadow: 0 0 7px 0 rgba(0,0,0,1);
     }
 }

@@ -10,17 +10,17 @@ import photography8 from  '../assets/photography/photography-8.webp';
 import photography9 from  '../assets/photography/photography-9.webp';
 import photography10 from  '../assets/photography/photography-10.webp';
 
-import design0 from '../assets/design/design-0.webp';
-import design1 from '../assets/design/design-1.webp';
-import design2 from '../assets/design/design-2.webp';
-import design3 from '../assets/design/design-3.webp';
-import design4 from '../assets/design/design-4.webp';
-import design5 from '../assets/design/design-5.webp';
-import design6 from '../assets/design/design-6.webp';
-import design7 from '../assets/design/design-7.webp';
-import design8 from '../assets/design/design-8.webp';
-import design9 from '../assets/design/design-9.webp';
-import design10 from '../assets/design/design-10.webp';
+import carousel0 from '../assets/design/carousel/carousel-0.webp';
+import carousel1 from '../assets/design/carousel/carousel-1.webp';
+import carousel2 from '../assets/design/carousel/carousel-2.webp';
+import carousel3 from '../assets/design/carousel/carousel-3.webp';
+import carousel4 from '../assets/design/carousel/carousel-4.webp';
+import carousel5 from '../assets/design/carousel/carousel-5.webp';
+import carousel6 from '../assets/design/carousel/carousel-6.webp';
+import carousel7 from '../assets/design/carousel/carousel-7.webp';
+import carousel8 from '../assets/design/carousel/carousel-8.webp';
+import carousel9 from '../assets/design/carousel/carousel-9.webp';
+import carousel10 from '../assets/design/carousel/carousel-10.webp';
 
 export const photographyCarouselImageUrl = [
   photography0, photography1, photography2, photography3, photography4, photography5,
@@ -28,6 +28,6 @@ export const photographyCarouselImageUrl = [
 ];
 
 export const designCarouselImageUrl = [
-  design0, design1, design2, design3, design4, design5, design6, design7, design8,
-  design9, design10
+  carousel0, carousel1, carousel2, carousel3, carousel4, carousel5, carousel6, carousel7, carousel8, carousel9,
+  carousel10
 ];

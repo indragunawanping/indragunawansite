@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react';
+import React from 'react';
 import styles from './ProgrammingPage.module.css';
 
 interface ProgrammingPageProps {
@@ -8,14 +8,14 @@ interface ProgrammingPageProps {
 
 const ProgrammingPage: React.FC<ProgrammingPageProps> = (props: ProgrammingPageProps) => {
   return (
-    <Fragment>
+    <div className={styles.ProgrammingPage}>
       <div className={styles.TechnologiesContainer}>
         <span className={styles.HeaderLight}>
           Technologies
         </span>
-          <div className={styles.TechnologiesContent}>
-            {props.programmingTechnologies}
-          </div>
+        <div className={styles.TechnologiesContent}>
+          {props.programmingTechnologies}
+        </div>
       </div>
 
       <div className={styles.ProjectsContainer}>
@@ -26,7 +26,7 @@ const ProgrammingPage: React.FC<ProgrammingPageProps> = (props: ProgrammingPageP
           {props.programmingCarousel}
         </div>
       </div>
-    </Fragment>
+    </div>
   )
 };
 
