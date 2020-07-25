@@ -2,7 +2,7 @@ import React from 'react';
 import Carousel from "./Carousel";
 import styles from "./DesignPage.module.css";
 import { designCarouselImageUrl } from "../master-data/carousel";
-import designGallery from "../master-data/designGallery";
+import { designGallery } from "../master-data/gallery";
 import { Gallery } from "../interfaces";
 
 interface DesignPageProps {
@@ -67,7 +67,7 @@ const DesignPage: React.FC<DesignPageProps> = (props: DesignPageProps) => {
           {props.designTools}
         </div>
       </div>
-      <div className={styles.divider} />
+      <div className={styles.divider}/>
       <div className={styles.GalleryContainer}>
         <div className={styles.OptionGroup}>
           {renderGalleryOption()}

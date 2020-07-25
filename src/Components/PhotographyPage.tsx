@@ -2,6 +2,7 @@ import React from 'react';
 import Carousel from "./Carousel";
 import styles from "./PhotographyPage.module.css";
 import { photographyCarouselImageUrl } from '../master-data/carousel';
+import { photographyGallery } from '../master-data/gallery';
 
 interface PhotographyPageProps {
   photographyTools: JSX.Element[];
@@ -20,6 +21,19 @@ const PhotographyPage: React.FC<PhotographyPageProps> = (props: PhotographyPageP
     return photographyUrl;
   };
 
+  const renderGallery = () => {
+    let galleryElements: JSX.Element[] = [];
+
+    photographyGallery[0].src.forEach((gallerySrc) => {
+      galleryElements.push(
+        <img key={gallerySrc} src={gallerySrc} alt="" className={styles.ImageGallery}/>
+      )
+    });
+
+    return galleryElements;
+  };
+
+
   return (
     <div className={styles.PhotographyPage}>
       <Carousel imageComponents={renderPhotographyImageUrl()}/>
@@ -31,12 +45,17 @@ const PhotographyPage: React.FC<PhotographyPageProps> = (props: PhotographyPageP
           {props.photographyTools}
         </div>
       </div>
-      {/*<span className={styles.Header}>*/}
-      {/*  Gallery*/}
-      {/*</span>*/}
-      {/*<div className={styles.GalleryContainer}>*/}
-      {/*  <Gallery photos={photos}/>*/}
-      {/*</div>*/}
+      <div className={styles.divider}/>
+      <div className={styles.GalleryContainer}>
+        <div className={styles.GalleryGroup}>
+          <span className={styles.GalleryHeader}>
+            Another Shots
+          </span>
+          <div className={styles.GalleryContents}>
+            {renderGallery()}
+          </div>
+        </div>
+      </div>
     </div>
   )
 };

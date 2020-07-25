@@ -1,7 +1,7 @@
 import React from 'react';
 import PhotographyPage from "../Components/PhotographyPage";
 import { Popup } from "semantic-ui-react";
-import photographyTools from "../master-data/photographyTools";
+import { photographyTools} from "../master-data/tools";
 
 const PhotographyPageContainer = () => {
   const extractPhotographyTools = () => {

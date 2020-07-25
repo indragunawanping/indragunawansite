@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import DesignPage from "../Components/DesignPage";
-import designTools from "../master-data/designTools";
+import { designTools } from "../master-data/tools";
 import { Popup } from "semantic-ui-react";
-import designGallery from "../master-data/designGallery";
+import { designGallery } from "../master-data/gallery";
 import { Gallery } from "../interfaces";
 
 const DesignPageContainer = () => {

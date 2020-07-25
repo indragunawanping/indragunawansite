@@ -39,9 +39,20 @@ import flatDesignStair from '../assets/design/gallery/flat-design/flat-design-st
 import flatDesignStones from '../assets/design/gallery/flat-design/flat-design-stones.webp';
 import flatDesignSunflowerField from '../assets/design/gallery/flat-design/flat-design-sunflower-field.webp';
 
+import photographyGallery0 from '../assets/photography/gallery/photography-gallery-0.webp';
+import photographyGallery1 from '../assets/photography/gallery/photography-gallery-1.webp';
+import photographyGallery2 from '../assets/photography/gallery/photography-gallery-2.webp';
+import photographyGallery3 from '../assets/photography/gallery/photography-gallery-3.webp';
+import photographyGallery4 from '../assets/photography/gallery/photography-gallery-4.webp';
+import photographyGallery5 from '../assets/photography/gallery/photography-gallery-5.webp';
+import photographyGallery6 from '../assets/photography/gallery/photography-gallery-6.webp';
+import photographyGallery7 from '../assets/photography/gallery/photography-gallery-7.webp';
+import photographyGallery8 from '../assets/photography/gallery/photography-gallery-8.webp';
+import photographyGallery9 from '../assets/photography/gallery/photography-gallery-9.webp';
+
 import { Gallery } from "../interfaces";
 
-const designGallery: Gallery[] = [
+export const designGallery: Gallery[] = [
   {
     idx: 0,
     name: 'Line Art',
@@ -69,4 +80,13 @@ const designGallery: Gallery[] = [
   }
 ];
 
-export default designGallery;
+export const photographyGallery: Gallery[] = [
+  {
+    idx: 0,
+    name: '',
+    src: [
+      photographyGallery0, photographyGallery1, photographyGallery2, photographyGallery3, photographyGallery4,
+      photographyGallery5, photographyGallery6, photographyGallery7, photographyGallery8, photographyGallery9
+    ],
+  }
+];
