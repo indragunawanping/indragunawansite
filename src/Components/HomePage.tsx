@@ -15,7 +15,7 @@ const HomePage: React.FC<HomePageProps> = (props: HomePageProps) => {
         <img className={styles.ProfileImage} src={fotoProfil} alt="foto_profil"/>
       </div>
       <div className={styles.TextContainer}>
-        <span className={styles.Name}>Indra Gunawan</span>
+        <span className={styles.Name}>Indra Gunawan 1</span>
         <span className={styles.Title}>Front-End Developer</span>
         <div className={styles.ButtonContainer}>
           <Button size="huge" inverted className={styles.Button} onClick={props.handleButtonKnowMeClick}>
