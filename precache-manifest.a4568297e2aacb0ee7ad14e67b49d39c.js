@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf585fc5fd250311938372c5e99a2bd3",
+    "revision": "9c8f84936415f8f9a37928bbe94f38bd",
     "url": "/indragunawansite/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/indragunawansite/static/css/2.28189fd1.chunk.css"
   },
   {
-    "revision": "9864b075d6b5afe755da",
-    "url": "/indragunawansite/static/css/main.15d617ae.chunk.css"
+    "revision": "cf515c991b83cc5f4b26",
+    "url": "/indragunawansite/static/css/main.84a6f796.chunk.css"
   },
   {
     "revision": "6ede26c96235e6745333",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/indragunawansite/static/js/2.92fc4df0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9864b075d6b5afe755da",
-    "url": "/indragunawansite/static/js/main.bed4fa11.chunk.js"
+    "revision": "cf515c991b83cc5f4b26",
+    "url": "/indragunawansite/static/js/main.c0bca606.chunk.js"
   },
   {
     "revision": "4a047295781ac108dd67",
