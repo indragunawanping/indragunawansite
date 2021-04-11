@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/indragunawansite/static/css/main.fe13c4c8.chunk.css",
+    "main.css": "/indragunawansite/static/css/main.29b2de30.chunk.css",
     "main.js": "/indragunawansite/static/js/main.15eb538d.chunk.js",
     "main.js.map": "/indragunawansite/static/js/main.15eb538d.chunk.js.map",
     "runtime-main.js": "/indragunawansite/static/js/runtime-main.0b74b15c.js",
@@ -9,10 +9,10 @@
     "static/js/2.92fc4df0.chunk.js": "/indragunawansite/static/js/2.92fc4df0.chunk.js",
     "static/js/2.92fc4df0.chunk.js.map": "/indragunawansite/static/js/2.92fc4df0.chunk.js.map",
     "index.html": "/indragunawansite/index.html",
-    "precache-manifest.c228a32638f2b51c08287cbaf4a3a2ee.js": "/indragunawansite/precache-manifest.c228a32638f2b51c08287cbaf4a3a2ee.js",
+    "precache-manifest.0bff2f85be80e6706868d7fb4a59bf28.js": "/indragunawansite/precache-manifest.0bff2f85be80e6706868d7fb4a59bf28.js",
     "service-worker.js": "/indragunawansite/service-worker.js",
     "static/css/2.28189fd1.chunk.css.map": "/indragunawansite/static/css/2.28189fd1.chunk.css.map",
-    "static/css/main.fe13c4c8.chunk.css.map": "/indragunawansite/static/css/main.fe13c4c8.chunk.css.map",
+    "static/css/main.29b2de30.chunk.css.map": "/indragunawansite/static/css/main.29b2de30.chunk.css.map",
     "static/js/2.92fc4df0.chunk.js.LICENSE.txt": "/indragunawansite/static/js/2.92fc4df0.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/indragunawansite/static/media/outline-icons.ef60a4f6.woff",
     "static/media/design-carousel-0.webp": "/indragunawansite/static/media/design-carousel-0.3ae6466c.webp",
@@ -121,7 +121,7 @@
     "static/js/runtime-main.0b74b15c.js",
     "static/css/2.28189fd1.chunk.css",
     "static/js/2.92fc4df0.chunk.js",
-    "static/css/main.fe13c4c8.chunk.css",
+    "static/css/main.29b2de30.chunk.css",
     "static/js/main.15eb538d.chunk.js"
   ]
 }
