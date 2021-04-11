@@ -2,7 +2,8 @@
     .AboutMePage {
         width: 90%;
         padding-top: 64px;
-        margin: 40px auto 40px;
+        margin: 40px auto;
+        padding-bottom: 40px;
     }
 
     .Quotes {
@@ -22,7 +23,8 @@
     .AboutMePage {
         width: 90%;
         padding-top: 64px;
-        margin: 0 auto 40px;
+        margin: 0 auto;
+        padding-bottom: 40px;
     }
 
     .CardsContainerRow {
